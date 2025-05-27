@@ -1,4 +1,4 @@
-# SWOS Career Editor
+# SWOS Magic Trick
 
 A Windows Forms application written in C# that allows you to modify SWOS (Sensible World of Soccer) PC career files (.car) with various gameplay tricks and enhancements.
 
