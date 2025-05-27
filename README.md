@@ -2,6 +2,9 @@
 
 A Windows Forms application written in C# that allows you to modify SWOS (Sensible World of Soccer) PC career files (.car) with various gameplay tricks and enhancements.
 
+![image](https://github.com/user-attachments/assets/52dc026d-c86d-42c4-9f6e-f4d36cff925a)
+
+
 ## Description
 
 This tool operates on SWOS PC career files, allowing players to apply specific modifications to enhance their gaming experience. The application provides a simple and intuitive interface to apply popular game modifications safely with automatic backup functionality.
@@ -121,7 +124,7 @@ This tool is for educational and entertainment purposes. Use at your own risk. A
 
 ## Version
 
-Current Version: 1.0
+Current Version: 1.0.0.1
 Development Status: Active
 
 ---
