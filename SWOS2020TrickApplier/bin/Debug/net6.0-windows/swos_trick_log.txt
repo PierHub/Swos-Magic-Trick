@@ -1,0 +1,10 @@
+=== SWOS 2020 Trick Applier Log - 2025-05-26 ===
+[2025-05-26 13:45:59] Backup created successfully: TOMod_backup_20250526.CAR for file: TOMod.CAR
+[2025-05-26 13:46:06] SUCCESS: Applied trick 'Get 100M $ (Arrivano gli Sceicchi)' to file 'TOMod.CAR' - Operation completed successfully
+[2025-05-26 13:49:15] Backup created successfully: TOMod_backup_20250526_backup_20250526.CAR for file: TOMod_backup_20250526.CAR
+[2025-05-26 13:49:17] SUCCESS: Applied trick 'Unlimited Transfer (Calciomercato pazzo)' to file 'TOMod_backup_20250526.CAR' - Operation completed successfully
+[2025-05-26 13:49:51] ERROR: Backup creation failed for file 'TOMod_backup_20250526.CAR' - Backup file already exists: TOMod_backup_20250526_backup_20250526.CAR
+[2025-05-26 13:49:55] Backup created successfully: TOMod_backup_20250526_backup_20250526.CAR for file: TOMod_backup_20250526.CAR
+[2025-05-26 13:49:56] SUCCESS: Applied trick 'Unlimited Career Years (Voglio giocare per sempre)' to file 'TOMod_backup_20250526.CAR' - Operation completed successfully
+[2025-05-26 13:51:58] Backup created successfully: Bar Modif_backup_20250526.CAR for file: Bar Modif.CAR
+[2025-05-26 13:52:00] SUCCESS: Applied trick 'Get 100M $ (Arrivano gli Sceicchi)' to file 'Bar Modif.CAR' - Operation completed successfully

@@ -1,0 +1,5 @@
+C:\Users\Pierpaolo Palmisano\Documents\Visual Studio 2022\Projects\SWOS2020TrickApplier\bin\publish\SWOS2020TrickApplier.exe
+C:\Users\Pierpaolo Palmisano\Documents\Visual Studio 2022\Projects\SWOS2020TrickApplier\bin\publish\SWOS2020TrickApplier.dll
+C:\Users\Pierpaolo Palmisano\Documents\Visual Studio 2022\Projects\SWOS2020TrickApplier\bin\publish\SWOS2020TrickApplier.deps.json
+C:\Users\Pierpaolo Palmisano\Documents\Visual Studio 2022\Projects\SWOS2020TrickApplier\bin\publish\SWOS2020TrickApplier.runtimeconfig.json
+C:\Users\Pierpaolo Palmisano\Documents\Visual Studio 2022\Projects\SWOS2020TrickApplier\bin\publish\SWOS2020TrickApplier.pdb

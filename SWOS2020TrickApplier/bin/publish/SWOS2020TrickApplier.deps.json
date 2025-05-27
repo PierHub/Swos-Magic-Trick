@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SWOS2020TrickApplier/1.0.0": {
+        "runtime": {
+          "SWOS2020TrickApplier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWOS2020TrickApplier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
